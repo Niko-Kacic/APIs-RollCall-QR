@@ -1,0 +1,78 @@
+{
+  "noticias": [
+    {
+      "title": "Con la participación de más de 300 asistentes y la presencia de importantes empresas y profesionales del área, se desarrolló el evento liderado por Duoc UC Alameda.",
+      "coverimg": "https://www.duoc.cl/wp-content/uploads/2024/09/hechoenalameda1-730x730.jpg",
+      "image_1": "https://www.duoc.cl/wp-content/uploads/2024/09/hechoenalameda2.jpg",
+      "image_2": "https://www.duoc.cl/wp-content/uploads/2024/09/hechoenalameda2.jpg",
+      "extract": "“Hecho en Alameda” se consolida como el evento de innovación y tecnología para la comunidad educativa",
+      "paragraph_1": "Paragrafo 1",
+      "paragraph_2": "Paragrafo 2",
+      "paragraph_3": "Paragrafo 3",
+      "date": "25 Septiembre, 2024 "
+    },
+    {
+      "title": "Con un plan de Marketing Integral, el equipo de nuestra sede Plaza Norte obtuvo el primer lugar en la categoría Senior del Marketing Challenge 2024, un desafío anual organizado por Duoc UC que involucra equipos de 3 estudiantes pertenecientes a las carreras de Ingeniería en Administración mención Marketing e Ingeniería en Marketing Digital por cada una de las 15 sedes participantes, clasificando a los estudiantes de 1° a 4° semestre en la Categoría Junior y de 5° a 8° semestre en la categoría Senior.",
+      "coverimg": "https://www.duoc.cl/wp-content/uploads/2024/09/noticiamkt2024-1-730x730.jpg",
+      "image_1": "https://www.duoc.cl/wp-content/uploads/2024/09/noticiamkt2024-2.jpg",
+      "extract": "El equipo Plaza Norte Senior obtuvo el primer lugar a nivel nacional del desafío Marketing Challenge 2024",
+      "paragraph_1": "Paragrafo 1",
+      "paragraph_2": "Paragrafo 2",
+      "paragraph_3": "Paragrafo 3",
+      "date": "23 Septiembre, 2024"
+    },
+    {
+      "title": "Noticia 3",
+      "extract": "Extracto",
+      "content": "Esta es la tercera noticia",
+      "date": "2024-10-03"
+    },
+    {
+      "title": "Noticia 4",
+      "extract": "Extracto",
+      "content": "Esta es la cuarta noticia",
+      "date": "2024-10-04"
+    },
+    {
+      "title": "Noticia 5",
+      "extract": "Extracto",
+      "content": "Esta es la quinta noticia",
+      "date": "2024-10-04"
+    }
+  ],
+  "eventos": [
+    {
+      "title": "Turisteando con Duoc por la Ruta de Iglesias Patrimoniales: segunda versión | Duoc UC sede Puente Alto",
+      "description": "Turisteando con Duoc por la Ruta de Iglesias Patrimoniales: segunda versión | Duoc UC sede Puente Alto",
+      "coverimg": "https://www.duoc.cl/wp-content/uploads/2024/05/foto7-1920x600.jpg",
+      "image_1":"https://www.duoc.cl/wp-content/uploads/2024/05/foto7-730x730.jpg",
+      "paragraph_1":"¿Estás listo para embarcarte en un viaje culinario que fusiona lo mejor de los océanos y la tierra firme? ¡Entonces nuestro taller de Cocina Mar y Tierra es para ti! Únete a nosotros para descubrir cómo combinar ingredientes del mar y de la tierra para crear platos exquisitos que deleitarán tus sentidos.",
+      "date": "18 Abril, 2024",
+      "eventDate":"viernes 17 de mayo",
+      "adress":"Chacabuco 425, Arauco",
+      "schedule":"14:00 hrs",
+      "location": "Auditorio Central"
+    },
+    {
+      "title": "Taller de reciclaje para niños | Duoc UC sede Melipilla",
+      "description": "Duoc UC A Puertas Abiertas, invita a los más pequeños del hogar a reciclar y realizar un “Zooclaje”. En esta oportunidad podrán realizar un o unos animalitos con cartón o un chanchito de alcancía con materiales 100% reciclados; como conos de cartón, botellas plásticas, hojas blancas,etc. Además de demostrar con su creatividad, lo que entiendan por reciclaje.",
+      "coverimg": "https://www.duoc.cl/wp-content/uploads/2024/05/foto3-1920x600.jpg",
+      "image_1":"https://www.duoc.cl/wp-content/uploads/2024/05/foto3-1536x866.jpg",
+      "paragraph_1":"Duoc UC A Puertas Abiertas, invita a los más pequeños del hogar a reciclar y realizar un “Zooclaje”. En esta oportunidad podrán realizar un o unos animalitos con cartón o un chanchito de alcancía con materiales 100% reciclados; como conos de cartón, botellas plásticas, hojas blancas,etc.",
+      "paragraph_2":"Además de demostrar con su creatividad, lo que entiendan por reciclaje.",
+      "date": "13 Mayo, 2024",
+      "eventDate":"viernes 17 de mayo",
+      "adress":"Chacabuco 425, Arauco",
+      "schedule":"16:00 hrs",
+      "location": "Serrano 1105, Melipilla"
+    },
+    {
+      "title": "Evento 3",
+      "description": "Este es el tercer evento",
+      "date": "2024-12-01",
+      "location": "Gimnasio"
+    }
+  ]
+}
+
+  
