@@ -2,6 +2,7 @@
     {
        "id": "1",
        "title": "Arquitectura de Software",
+       "section": "ASY4131-008V",
        "imageURL": "https://cdn-icons-png.flaticon.com/512/5271/5271007.png",
        "profileImg": "https://avatars.githubusercontent.com/u/34869177?v=4",
        "state":"Cursando",
@@ -12,6 +13,7 @@
     {
         "id": "2",
         "title": "Calidad de Software",
+        "section": "CSY4111-008V",
         "imageURL": "https://cdn-icons-png.flaticon.com/512/4677/4677559.png",
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
@@ -22,6 +24,7 @@
     {
         "id": "3",
         "title": "Estadistica Descriptiva ",
+        "section": "MAT4140-010V",
         "imageURL": "https://cdn-icons-png.flaticon.com/512/432/432796.png",
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
@@ -32,6 +35,7 @@
     {
         "id": "4",
         "title": "Etica Laboral",
+        "section": "EAY4450-006V",
         "imageURL": "https://cdn-icons-png.flaticon.com/512/5776/5776927.png",
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
@@ -42,6 +46,7 @@
     {
         "id": "5",
         "title": "Ingles Intermedio",
+        "section": "INI5111-018V",
         "imageURL": "https://images.vexels.com/content/201997/preview/english-book-flat-17d09a.png",
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
@@ -52,6 +57,7 @@
     {
         "id": "6",
         "title": "Programación App Movil",
+        "section": "PGY4121-008V",
         "imageURL": "https://www.svgrepo.com/show/530452/mobile-app.svg",
         "profileImg": "https://avatars.githubusercontent.com/u/8823837?v=4",
         "state":"Cursando",
