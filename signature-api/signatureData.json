@@ -7,8 +7,7 @@
        "profileImg": "https://avatars.githubusercontent.com/u/34869177?v=4",
        "state":"Cursando",
        "teacher":"ERNESTO LEONIDAS VELASQUEZ VELASQUEZ ",
-       "asistance": "90%",
-       "classes":17
+       "totalClasses":15
     },
     {
         "id": "2",
@@ -18,8 +17,7 @@
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
         "teacher":"DANIEL ENRIQUE RIQUELME RIGOT",
-        "asistance": "100%",
-        "classes":12
+        "classes":29
     },
     {
         "id": "3",
@@ -29,8 +27,7 @@
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
         "teacher":"MONICA NATHALIA PANES MARTINEZ",
-        "asistance": "100%",
-        "classes":15
+        "classes":30
     },
     {
         "id": "4",
@@ -40,8 +37,7 @@
         "profileImg": "https://learn.content.blackboardcdn.com/3900.100.0-rel.32+b7093a7/images/ci/ng/default_profile_avatar.svg",
         "state":"Cursando",
         "teacher":"LEONARDO OSVALDO MUÑOZ VILLALÓN",
-        "asistance": "90%",
-        "classes":11
+        "classes":17
     },
     {
         "id": "5",
@@ -52,7 +48,7 @@
         "state":"Cursando",
         "teacher":"JOSE SANTOS JARA FUENTES",
         "asistance": "75%",
-        "classes":17
+        "classes":62
     },
     {
         "id": "6",
@@ -63,7 +59,7 @@
         "state":"Cursando",
         "teacher":"CARLOS FERNANDO MARTINEZ SANCHEZ",
         "asistance": "100%",
-        "classes":18
+        "classes":30
     }
 
 ]
