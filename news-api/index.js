@@ -7,9 +7,8 @@ const PORT = 3000;
 
 app.use(cors());
 
-//Aqui creo la ruta para obtener la información de la API
 app.get('/news', (req, res)=>{
-    //Aqui se lee el archivo JSON creado con las noticias 
+
     fs.readFile('newsData.json','utf8',(err, data)=>{
         if(err) {
             return res.status(500).json({
@@ -17,7 +16,7 @@ app.get('/news', (req, res)=>{
             });
         }
 
-        //Se devuelve la noticia en formato JSON
+      
         res.json(JSON.parse(data));
     });
     
